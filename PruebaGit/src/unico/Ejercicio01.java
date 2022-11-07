@@ -7,6 +7,8 @@ public class Ejercicio01 {
 	public static void main(String[] args) {
 		Scanner teclado = new Scanner(System.in);
 		
+//		Escribe un programa que pida por teclado un día de la semana y que diga qué asignatura toca a primera hora ese día.
+				
 		int opc;
 		String asignatura;
 		
